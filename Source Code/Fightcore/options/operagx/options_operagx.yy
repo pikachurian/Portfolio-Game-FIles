@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.22",
+  "option_operagx_next_version": "0.0.0.23",
+  "option_operagx_game_name": "Fightcore",
+  "option_operagx_interpolate_pixels": false,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "f1e8022c-5aa6-448f-82a1-13b709873d47",
+  "option_operagx_team_name": "pikachurian studio",
+  "option_operagx_team_id": "",
+  "option_operagx_editUrl": "https://dc.gxc.gg/home/games/game/f1e8022c-5aa6-448f-82a1-13b709873d47/edit",
+  "option_operagx_internalShareUrl": "https://gxc.gg/game/f1e8022c-5aa6-448f-82a1-13b709873d47?track=54b78e80-c19e-4392-bb96-12ef08ab27a1",
+  "option_operagx_publicShareUrl": "https://gxc.gg/game/f1e8022c-5aa6-448f-82a1-13b709873d47?track=54b78e80-c19e-4392-bb96-12ef08ab27a1",
+}

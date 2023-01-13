@@ -1,0 +1,1 @@
+draw = obj_player_stats.coins_level_0

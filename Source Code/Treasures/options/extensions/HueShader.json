@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "HueShader",
+    "path": "extensions/HueShader/HueShader.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}
